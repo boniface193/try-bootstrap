@@ -1,0 +1,53 @@
+@import url('node_modules/bootstrap/dist/css/bootstrap.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+}
+
+.ws--500 {
+  font-weight: 500;
+}
+
+.ws--400 {
+  font-weight: 400;
+}
+
+.ws--600 {
+  font-weight: 600;
+}
+
+.ws--700 {
+  font-weight: 700;
+}
+
+.background-image {
+  height: 100vh;
+  background-image: url('./assets/images/Header-bg.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.my-title {
+  font-size: 48px;
+  line-height: 60px;
+  letter-spacing: 0.37px;
+  color: #091e42;
+}
+
+.my-subtitle {
+  font-size: 20px;
+  line-height: 28px;
+  color: #344563;
+}
+.connect {
+  font-size: 16px;
+  line-height: 24px;
+  color: #7f8cff;
+}
+
+.text-decoration-none li a {
+  text-decoration: none;
+}
