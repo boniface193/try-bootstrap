@@ -4,6 +4,8 @@
 * {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
+  margin: 0;
+  padding: 0;
 }
 
 .ws--500 {
@@ -48,6 +50,14 @@
   color: #7f8cff;
 }
 
-.text-decoration-none li a {
-  text-decoration: none;
+ul li {
+  list-style-type: none;
+}
+
+.icon li {
+  margin-right: 15px;
+}
+
+.fa-brands {
+  color: #505F79;
 }
