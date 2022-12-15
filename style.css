@@ -87,3 +87,17 @@ footer {
   line-height: 28px;
   width: 569px;
 }
+
+.card-content {
+  margin-left: 25%;
+  margin-top: 10%;
+  width: 50%;
+}
+
+.tech-btn {
+  color: blue;
+}
+
+.project-btn {
+  margin-top: 20px;
+}
