@@ -24,8 +24,13 @@
   font-weight: 700;
 }
 
+.backround-color {
+  background-color: #e5e5e5;
+}
+
 .background-image {
   height: 100vh;
+  background-color: #fff;
   background-image: url('./assets/images/Header-bg.svg');
   background-repeat: no-repeat;
   background-position: center;
@@ -60,4 +65,25 @@ ul li {
 
 .fa-brands {
   color: #505F79;
+}
+
+
+footer {
+  background-color: #fff;
+}
+
+.contact {
+  background-color: #6070ff;
+  padding: 142px 0 127px 0;
+}
+
+.contact-title {
+  font-size: 40px;
+  line-height: 52px;
+}
+
+.contact-subtitle {
+  font-size: 20px;
+  line-height: 28px;
+  width: 569px;
 }
